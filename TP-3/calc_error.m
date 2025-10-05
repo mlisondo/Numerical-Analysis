@@ -1,4 +1,4 @@
-function errors = tp3analisis2()
+function errors = calc_error()
     format short e
     aFunc   = @(x) 1.0;
     bFunc   = @(x) 1.0;
